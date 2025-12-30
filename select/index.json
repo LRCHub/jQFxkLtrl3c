@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "毒杯スワロウ （ぽいずにゃ～しんどろーむ ver.）",
+  "base_artist": "猫又おかゆ",
+  "createdAt": "2025-12-30T04:44:28.397302Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "毒杯スワロウ (ぽいずにゃ～しんどろーむ Ver.)",
+      "artist": "猫又おかゆ",
+      "has_synced": true,
+      "path": "select/01_毒杯スワロウ_(ぽいずにゃ~しんどろーむ_Ver.)_猫又おかゆ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "毒杯スワロウ (ぽいずにゃ〜しんどろーむ ver.)",
+      "artist": "猫又おかゆ",
+      "has_synced": true,
+      "path": "select/02_毒杯スワロウ_(ぽいずにゃ〜しんどろーむ_ver.)_猫又おかゆ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "毒杯スワロウ (ぽいずにゃ～しんどろーむ ver.)",
+      "artist": "猫又おかゆ",
+      "has_synced": false,
+      "path": "select/pl_01_毒杯スワロウ_(ぽいずにゃ~しんどろーむ_ver.)_猫又おかゆ.txt"
+    }
+  ]
+}
